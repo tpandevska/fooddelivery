@@ -16,15 +16,14 @@ const Navbar = props => {
       </div>
       <div className={styles.texts}>
       <div className={styles.text}>ORDER NOW!</div>
-      <div className={styles.text}>(389) 111 1111</div>
+      <div className={styles.text}>1-212-1234567</div>
       </div> 
       </div>
       <div className={styles.item}>
         <ul className={styles.list}>
           <Link href="/">
-          <li className={styles.listItem}>HomePage</li>
+          <li className={styles.listItem}>Home</li>
           </Link>
-          <li className={styles.listItem}>Products</li>
           <li className={styles.listItem}>Menu</li>
           <Link href="/">
           <li className={styles.listItem}>
@@ -32,7 +31,6 @@ const Navbar = props => {
           </li>
           </Link>
           <li className={styles.listItem}>Events</li>
-          <li className={styles.listItem}>Blog</li>
           <li className={styles.listItem}>Content</li>
         </ul>
       </div>

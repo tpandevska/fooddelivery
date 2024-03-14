@@ -20,24 +20,24 @@ const Footer = props => {
           FIND OUR RESTAURANTS
           </h1>
           <p className={styles.text}>
-              PARTIZANSKI ODREDI #197. 
-              <br/> SKOPJE, 1000
-              <br/> (389) 111-1111
+          413 8th Ave, New York
+              <br/>  NY 10001, United States
+              <br/>  111-111-111
           </p>
           <p className={styles.text}>
-              NARODEN FRONT #10. 
-              <br/> BITOLA, 2000
-              <br/> (389) 111-1112
+          421 Amsterdam Ave, New York
+              <br/> NY 10024, United States
+              <br/> 111-222-112
+          </p>
+          <p className={styles.text}> 
+          1435 Broadway, New York
+              <br/> NY 10018, United States
+              <br/>  111-333-113
           </p>
           <p className={styles.text}>
-              KLIMENT OHRIDSKI #104. 
-              <br/> STRUMICA, 2400
-              <br/> (389) 111-1113
-          </p>
-          <p className={styles.text}>
-              LENINOVA #25. 
-              <br/> STIP, 1400
-              <br/> (389) 111-1114
+          434 E 72nd St, New York
+              <br/>  NY 10021, United States
+              <br/> 111-444-114
           </p>
       </div>
       <div className={styles.card}>
